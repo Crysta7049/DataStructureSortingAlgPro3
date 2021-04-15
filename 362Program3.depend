@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1491965684 source:c:\users\cryst_000\desktop\362program3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<chrono>
+	<ratio>
+	<algorithm>
+
